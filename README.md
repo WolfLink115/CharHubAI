@@ -1,5 +1,7 @@
 ![](demo.GIF)
 
+# I HAVE NO IDEA WHAT I AM DOING RIGHT NOW LMAO
+
 # Stage Template for Chub
 
 This is a template stage that does nothing, to be used as a base
@@ -40,7 +42,7 @@ You'll need node@21.7.1 and yarn installed.
 Then, to get started:
 
 ``` 
-git clone https://github.com/CharHubAI/stage-template
+git clone https://github.com/WolfLink115/CharHubAI
 cd stage-template
 yarn install
 yarn dev
